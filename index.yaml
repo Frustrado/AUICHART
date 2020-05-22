@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  my-app:
+  - apiVersion: v1
+    appVersion: "1"
+    created: "2020-05-22T15:10:17.1791321+02:00"
+    description: Simple custom chart for AUI
+    digest: 0619fcc3bdf88186bed8861116fec8fd577a6ecefb4deda68886fb8daef080b6
+    name: my-app
+    urls:
+    - https://frustrado.github.io/AUICHART/my-app-0.4.0.tgz
+    version: 0.4.0
+generated: "2020-05-22T15:10:17.1781293+02:00"
